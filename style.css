@@ -1,0 +1,39 @@
+body{
+    background-color: wheat;
+}
+
+.container{
+    background-color:rgb(213, 210, 210);
+    margin-top: 80px;
+    width:1000px;
+    box-shadow: 5px 5px 5px black;
+}
+
+.container .heading {
+    text-align: center;
+    color: white;
+    background-color: black;
+    margin-left: -12px;
+    
+    width: 1000px;
+}
+
+
+.main-wrapper{
+    width: 650px;
+    margin-left: 200px;
+}
+
+.col-md-4 input{
+    box-shadow: 5px 5px 5px black;
+}
+
+.col-md-6 input{
+    box-shadow: 5px 5px 5px black;
+}
+.button1{
+    margin-left: 250px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
+
